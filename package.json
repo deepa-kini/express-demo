@@ -19,6 +19,7 @@
   "homepage": "https://github.com/deepa-kini/express-demo#readme",
   "dependencies": {
     "express": "^4.17.2",
+    "joi": "^17.6.0",
     "nodemon": "^2.0.15"
   }
 }
